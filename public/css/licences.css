@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+}
+
+p {
+  margin: 1rem 0;
+}
+
+.collapsible-container {
+  align-self: center;
+}
+
